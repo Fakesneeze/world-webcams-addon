@@ -1,0 +1,24 @@
+{
+  "id": "org.stremio.webcams",
+  "version": "1.0.0",
+  "name": "Live World Webcams",
+  "description": "Top 50 cinematic live webcam streams from around the world.",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "worldcams",
+      "name": "World Webcams"
+    }
+  ],
+  "idPrefixes": [
+    "webcam_"
+  ]
+}

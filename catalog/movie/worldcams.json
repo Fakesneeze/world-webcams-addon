@@ -1,0 +1,16 @@
+{
+  "metas": [
+    {
+      "id": "webcam_times_square_4k_cam",
+      "type": "movie",
+      "name": "Times Square 4K Cam",
+      "poster": "https://earthcam.com/posters/times_square.jpg"
+    },
+    {
+      "id": "webcam_abbey_road_crossing",
+      "type": "movie",
+      "name": "Abbey Road Crossing",
+      "poster": "https://earthcam.com/posters/abbey_road.jpg"
+    }
+  ]
+}
