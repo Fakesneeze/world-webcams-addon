@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_los_angeles_hollywood",
+    "type": "movie",
+    "name": "Los Angeles Hollywood",
+    "poster": "https://example.com/posters/los_angeles_hollywood.jpg",
+    "description": "Live view of Los Angeles Hollywood."
+  }
+}

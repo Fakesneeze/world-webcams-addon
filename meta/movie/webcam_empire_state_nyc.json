@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_empire_state_nyc",
+    "type": "movie",
+    "name": "Empire State Nyc",
+    "poster": "https://example.com/posters/empire_state_nyc.jpg",
+    "description": "Live view of Empire State Nyc."
+  }
+}

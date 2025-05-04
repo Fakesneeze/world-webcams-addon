@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_maldives_beach",
+    "type": "movie",
+    "name": "Maldives Beach",
+    "poster": "https://example.com/posters/maldives_beach.jpg",
+    "description": "Live view of Maldives Beach."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_montreal_old_port",
+    "type": "movie",
+    "name": "Montreal Old Port",
+    "poster": "https://example.com/posters/montreal_old_port.jpg",
+    "description": "Live view of Montreal Old Port."
+  }
+}

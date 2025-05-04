@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_geiranger_fjord_norway",
+    "type": "movie",
+    "name": "Geiranger Fjord Norway",
+    "poster": "https://example.com/posters/geiranger_fjord_norway.jpg",
+    "description": "Live view of Geiranger Fjord Norway."
+  }
+}

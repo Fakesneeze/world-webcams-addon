@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_table_mountain_cape",
+    "type": "movie",
+    "name": "Table Mountain Cape",
+    "poster": "https://example.com/posters/table_mountain_cape.jpg",
+    "description": "Live view of Table Mountain Cape."
+  }
+}

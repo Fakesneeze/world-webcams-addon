@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_sanmarco_venice",
+    "type": "movie",
+    "name": "Sanmarco Venice",
+    "poster": "https://example.com/posters/sanmarco_venice.jpg",
+    "description": "Live view of Sanmarco Venice."
+  }
+}

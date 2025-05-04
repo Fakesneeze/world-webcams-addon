@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_pipeline_oahu",
+    "type": "movie",
+    "name": "Pipeline Oahu",
+    "poster": "https://example.com/posters/pipeline_oahu.jpg",
+    "description": "Live view of Pipeline Oahu."
+  }
+}

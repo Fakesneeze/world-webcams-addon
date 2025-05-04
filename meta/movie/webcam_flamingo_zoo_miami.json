@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_flamingo_zoo_miami",
+    "type": "movie",
+    "name": "Flamingo Zoo Miami",
+    "poster": "https://example.com/posters/flamingo_zoo_miami.jpg",
+    "description": "Live view of Flamingo Zoo Miami."
+  }
+}

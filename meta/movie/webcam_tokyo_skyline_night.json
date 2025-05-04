@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_tokyo_skyline_night",
+    "type": "movie",
+    "name": "Tokyo Skyline Night",
+    "poster": "https://example.com/posters/tokyo_skyline_night.jpg",
+    "description": "Live view of Tokyo Skyline Night."
+  }
+}

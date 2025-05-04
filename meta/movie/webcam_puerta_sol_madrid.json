@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_puerta_sol_madrid",
+    "type": "movie",
+    "name": "Puerta Sol Madrid",
+    "poster": "https://example.com/posters/puerta_sol_madrid.jpg",
+    "description": "Live view of Puerta Sol Madrid."
+  }
+}

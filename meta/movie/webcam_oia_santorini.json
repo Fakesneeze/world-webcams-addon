@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_oia_santorini",
+    "type": "movie",
+    "name": "Oia Santorini",
+    "poster": "https://example.com/posters/oia_santorini.jpg",
+    "description": "Live view of Oia Santorini."
+  }
+}

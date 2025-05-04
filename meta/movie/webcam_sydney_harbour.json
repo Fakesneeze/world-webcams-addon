@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_sydney_harbour",
+    "type": "movie",
+    "name": "Sydney Harbour",
+    "poster": "https://example.com/posters/sydney_harbour.jpg",
+    "description": "Live view of Sydney Harbour."
+  }
+}

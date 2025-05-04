@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_waikiki_beach",
+    "type": "movie",
+    "name": "Waikiki Beach",
+    "poster": "https://example.com/posters/waikiki_beach.jpg",
+    "description": "Live view of Waikiki Beach."
+  }
+}

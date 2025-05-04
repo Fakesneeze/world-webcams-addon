@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_grand_canyon_arizona",
+    "type": "movie",
+    "name": "Grand Canyon Arizona",
+    "poster": "https://example.com/posters/grand_canyon_arizona.jpg",
+    "description": "Live view of Grand Canyon Arizona."
+  }
+}

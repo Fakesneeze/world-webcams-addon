@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_london_eye",
+    "type": "movie",
+    "name": "London Eye",
+    "poster": "https://example.com/posters/london_eye.jpg",
+    "description": "Live view of London Eye."
+  }
+}

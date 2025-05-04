@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_hallstatt_austria",
+    "type": "movie",
+    "name": "Hallstatt Austria",
+    "poster": "https://example.com/posters/hallstatt_austria.jpg",
+    "description": "Live view of Hallstatt Austria."
+  }
+}

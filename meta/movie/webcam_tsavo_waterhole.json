@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_tsavo_waterhole",
+    "type": "movie",
+    "name": "Tsavo Waterhole",
+    "poster": "https://example.com/posters/tsavo_waterhole.jpg",
+    "description": "Live view of Tsavo Waterhole."
+  }
+}

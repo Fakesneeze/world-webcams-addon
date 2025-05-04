@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_tembe_elephants",
+    "type": "movie",
+    "name": "Tembe Elephants",
+    "poster": "https://example.com/posters/tembe_elephants.jpg",
+    "description": "Live view of Tembe Elephants."
+  }
+}

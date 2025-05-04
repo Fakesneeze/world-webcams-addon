@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_dam_square_amsterdam",
+    "type": "movie",
+    "name": "Dam Square Amsterdam",
+    "poster": "https://example.com/posters/dam_square_amsterdam.jpg",
+    "description": "Live view of Dam Square Amsterdam."
+  }
+}

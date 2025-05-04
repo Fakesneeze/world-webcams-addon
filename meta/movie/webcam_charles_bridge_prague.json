@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_charles_bridge_prague",
+    "type": "movie",
+    "name": "Charles Bridge Prague",
+    "poster": "https://example.com/posters/charles_bridge_prague.jpg",
+    "description": "Live view of Charles Bridge Prague."
+  }
+}

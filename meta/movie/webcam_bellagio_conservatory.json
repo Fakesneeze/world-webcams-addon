@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_bellagio_conservatory",
+    "type": "movie",
+    "name": "Bellagio Conservatory",
+    "poster": "https://example.com/posters/bellagio_conservatory.jpg",
+    "description": "Live view of Bellagio Conservatory."
+  }
+}

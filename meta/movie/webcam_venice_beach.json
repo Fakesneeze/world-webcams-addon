@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_venice_beach",
+    "type": "movie",
+    "name": "Venice Beach",
+    "poster": "https://example.com/posters/venice_beach.jpg",
+    "description": "Live view of Venice Beach."
+  }
+}

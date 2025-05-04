@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_mecca_grand_mosque",
+    "type": "movie",
+    "name": "Mecca Grand Mosque",
+    "poster": "https://example.com/posters/mecca_grand_mosque.jpg",
+    "description": "Live view of Mecca Grand Mosque."
+  }
+}

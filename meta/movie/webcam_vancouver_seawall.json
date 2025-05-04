@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_vancouver_seawall",
+    "type": "movie",
+    "name": "Vancouver Seawall",
+    "poster": "https://example.com/posters/vancouver_seawall.jpg",
+    "description": "Live view of Vancouver Seawall."
+  }
+}

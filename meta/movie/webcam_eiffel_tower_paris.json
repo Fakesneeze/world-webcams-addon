@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_eiffel_tower_paris",
+    "type": "movie",
+    "name": "Eiffel Tower Paris",
+    "poster": "https://example.com/posters/eiffel_tower_paris.jpg",
+    "description": "Live view of Eiffel Tower Paris."
+  }
+}

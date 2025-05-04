@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_mount_fuji",
+    "type": "movie",
+    "name": "Mount Fuji",
+    "poster": "https://example.com/posters/mount_fuji.jpg",
+    "description": "Live view of Mount Fuji."
+  }
+}

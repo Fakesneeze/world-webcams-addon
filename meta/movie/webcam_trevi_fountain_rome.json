@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_trevi_fountain_rome",
+    "type": "movie",
+    "name": "Trevi Fountain Rome",
+    "poster": "https://example.com/posters/trevi_fountain_rome.jpg",
+    "description": "Live view of Trevi Fountain Rome."
+  }
+}

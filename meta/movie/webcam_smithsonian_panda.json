@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_smithsonian_panda",
+    "type": "movie",
+    "name": "Smithsonian Panda",
+    "poster": "https://example.com/posters/smithsonian_panda.jpg",
+    "description": "Live view of Smithsonian Panda."
+  }
+}

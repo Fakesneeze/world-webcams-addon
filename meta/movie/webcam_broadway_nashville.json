@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_broadway_nashville",
+    "type": "movie",
+    "name": "Broadway Nashville",
+    "poster": "https://example.com/posters/broadway_nashville.jpg",
+    "description": "Live view of Broadway Nashville."
+  }
+}

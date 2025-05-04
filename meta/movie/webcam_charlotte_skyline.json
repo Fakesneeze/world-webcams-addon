@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_charlotte_skyline",
+    "type": "movie",
+    "name": "Charlotte Skyline",
+    "poster": "https://example.com/posters/charlotte_skyline.jpg",
+    "description": "Live view of Charlotte Skyline."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_yosemite_view",
+    "type": "movie",
+    "name": "Yosemite View",
+    "poster": "https://example.com/posters/yosemite_view.jpg",
+    "description": "Live view of Yosemite View."
+  }
+}

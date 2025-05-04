@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_abbey_road_london",
+    "type": "movie",
+    "name": "Abbey Road London",
+    "poster": "https://example.com/posters/abbey_road_london.jpg",
+    "description": "Live view of Abbey Road London."
+  }
+}

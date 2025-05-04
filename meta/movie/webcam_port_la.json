@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_port_la",
+    "type": "movie",
+    "name": "Port La",
+    "poster": "https://example.com/posters/port_la.jpg",
+    "description": "Live view of Port La."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_fremont_st_vegas",
+    "type": "movie",
+    "name": "Fremont St Vegas",
+    "poster": "https://example.com/posters/fremont_st_vegas.jpg",
+    "description": "Live view of Fremont St Vegas."
+  }
+}

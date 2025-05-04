@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_temple_bar_dublin",
+    "type": "movie",
+    "name": "Temple Bar Dublin",
+    "poster": "https://example.com/posters/temple_bar_dublin.jpg",
+    "description": "Live view of Temple Bar Dublin."
+  }
+}

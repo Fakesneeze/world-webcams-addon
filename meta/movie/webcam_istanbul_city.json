@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_istanbul_city",
+    "type": "movie",
+    "name": "Istanbul City",
+    "poster": "https://example.com/posters/istanbul_city.jpg",
+    "description": "Live view of Istanbul City."
+  }
+}

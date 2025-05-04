@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_hoover_dam",
+    "type": "movie",
+    "name": "Hoover Dam",
+    "poster": "https://example.com/posters/hoover_dam.jpg",
+    "description": "Live view of Hoover Dam."
+  }
+}

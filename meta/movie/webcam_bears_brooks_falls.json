@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_bears_brooks_falls",
+    "type": "movie",
+    "name": "Bears Brooks Falls",
+    "poster": "https://example.com/posters/bears_brooks_falls.jpg",
+    "description": "Live view of Bears Brooks Falls."
+  }
+}

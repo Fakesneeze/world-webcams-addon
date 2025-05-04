@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_tokyo_tower",
+    "type": "movie",
+    "name": "Tokyo Tower",
+    "poster": "https://example.com/posters/tokyo_tower.jpg",
+    "description": "Live view of Tokyo Tower."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_copacabana_rio",
+    "type": "movie",
+    "name": "Copacabana Rio",
+    "poster": "https://example.com/posters/copacabana_rio.jpg",
+    "description": "Live view of Copacabana Rio."
+  }
+}

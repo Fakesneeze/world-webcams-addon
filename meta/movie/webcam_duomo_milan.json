@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_duomo_milan",
+    "type": "movie",
+    "name": "Duomo Milan",
+    "poster": "https://example.com/posters/duomo_milan.jpg",
+    "description": "Live view of Duomo Milan."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_colosseum_rome",
+    "type": "movie",
+    "name": "Colosseum Rome",
+    "poster": "https://example.com/posters/colosseum_rome.jpg",
+    "description": "Live view of Colosseum Rome."
+  }
+}

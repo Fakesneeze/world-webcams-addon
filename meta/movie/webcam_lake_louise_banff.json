@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_lake_louise_banff",
+    "type": "movie",
+    "name": "Lake Louise Banff",
+    "poster": "https://example.com/posters/lake_louise_banff.jpg",
+    "description": "Live view of Lake Louise Banff."
+  }
+}

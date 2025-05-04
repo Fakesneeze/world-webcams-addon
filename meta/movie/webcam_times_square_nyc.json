@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_times_square_nyc",
+    "type": "movie",
+    "name": "Times Square Nyc",
+    "poster": "https://example.com/posters/times_square_nyc.jpg",
+    "description": "Live view of Times Square Nyc."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_shibuya_crossing_tokyo",
+    "type": "movie",
+    "name": "Shibuya Crossing Tokyo",
+    "poster": "https://example.com/posters/shibuya_crossing_tokyo.jpg",
+    "description": "Live view of Shibuya Crossing Tokyo."
+  }
+}

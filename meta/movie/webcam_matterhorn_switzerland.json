@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_matterhorn_switzerland",
+    "type": "movie",
+    "name": "Matterhorn Switzerland",
+    "poster": "https://example.com/posters/matterhorn_switzerland.jpg",
+    "description": "Live view of Matterhorn Switzerland."
+  }
+}

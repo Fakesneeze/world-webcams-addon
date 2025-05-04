@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "id": "webcam_niagara_falls_canada",
+    "type": "movie",
+    "name": "Niagara Falls Canada",
+    "poster": "https://example.com/posters/niagara_falls_canada.jpg",
+    "description": "Live view of Niagara Falls Canada."
+  }
+}
