@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/puerta_sol_madrid.m3u8"
+    }
+  ]
+}

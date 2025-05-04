@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/smithsonian_panda.m3u8"
+    }
+  ]
+}

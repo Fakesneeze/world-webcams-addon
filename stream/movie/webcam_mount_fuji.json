@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/mount_fuji.m3u8"
+    }
+  ]
+}

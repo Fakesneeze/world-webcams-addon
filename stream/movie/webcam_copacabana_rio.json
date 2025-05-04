@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/copacabana_rio.m3u8"
+    }
+  ]
+}

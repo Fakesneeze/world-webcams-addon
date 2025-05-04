@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/dam_square_amsterdam.m3u8"
+    }
+  ]
+}

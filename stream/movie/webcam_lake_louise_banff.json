@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/lake_louise_banff.m3u8"
+    }
+  ]
+}

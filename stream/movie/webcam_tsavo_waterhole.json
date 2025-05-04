@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/tsavo_waterhole.m3u8"
+    }
+  ]
+}

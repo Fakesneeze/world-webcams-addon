@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/montreal_old_port.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/tokyo_skyline_night.m3u8"
+    }
+  ]
+}

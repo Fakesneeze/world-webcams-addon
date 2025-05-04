@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/abbey_road_london.m3u8"
+    }
+  ]
+}

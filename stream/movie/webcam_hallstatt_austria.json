@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/hallstatt_austria.m3u8"
+    }
+  ]
+}

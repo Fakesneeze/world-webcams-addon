@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/flamingo_zoo_miami.m3u8"
+    }
+  ]
+}

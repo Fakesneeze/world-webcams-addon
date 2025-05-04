@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/colosseum_rome.m3u8"
+    }
+  ]
+}

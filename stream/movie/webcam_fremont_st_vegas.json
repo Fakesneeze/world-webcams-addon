@@ -1,0 +1,8 @@
+{
+  "streams": [
+    {
+      "title": "Live Stream",
+      "url": "https://example.com/streams/fremont_st_vegas.m3u8"
+    }
+  ]
+}
